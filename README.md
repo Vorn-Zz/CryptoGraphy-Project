@@ -11,7 +11,8 @@ The main purpose of this project is to prevent unauthorized access to sensitive 
 ## How to Use the System
 
 ### 1. Run the Application
-Start the program by running:
+Start the program by running in main or 
+python main.py
 
 
 A graphical window will open.
